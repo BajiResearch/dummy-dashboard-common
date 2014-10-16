@@ -17,7 +17,7 @@
   </dependencies>
   
 	<scm>
-		<developerConnection>scm:git:https://github.com/BajiResearch/maven-release-test2.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/BajiResearch/dummy-dashboard-common.git</developerConnection>
 	</scm>
   
 	<distributionManagement>
